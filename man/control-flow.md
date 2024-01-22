@@ -70,6 +70,6 @@ Rust is not a functional programming language per se, but it does have some func
 
 I won't delve deeper into those, but there are REALLY useful and you should learn how to use them.
 
-Fold is simple, it applies a function to each elements of an iteration, accumulation them into a new value.
+Fold is simple, it applies a function to each elements of an iteration, accumulating them into a new value.
 
 You can find this way of programming complicated, but sometimes, thinking about a problem differently can help finding new ways of solving a problem.
