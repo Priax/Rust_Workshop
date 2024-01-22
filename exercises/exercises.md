@@ -25,7 +25,7 @@ fn array_and_vec() -> ([i32; 4], Vec<i32>) {
 
 Read from a file and print its content.
 
-> [!NOTE] Use Rust standard library
+> [!NOTE]
 > `use std::fs;`
 
 ## Exercise 3 :
@@ -36,7 +36,7 @@ Make a function that takes two number and a string and matches the character to 
 
 Add error handling to your program, to avoid dividing by zero. (%, /) <br>
 
-> [!NOTE] Options
+> [!NOTE]
 > `Option<T>` <br>
 > (T means type, it can be anything you want)
 
@@ -45,7 +45,7 @@ Add error handling to your program, to avoid dividing by zero. (%, /) <br>
 
 Write a program that prompts the user to input a string and then prints the reverse of that string. <br>
 
-> [!NOTE] Use Rust standard library
+> [!NOTE]
 > `use std::io::{self, Write};`
 
 ## Exercise 6:
@@ -56,7 +56,7 @@ Implement a function that checks whether a given string is a palindrome (reads t
 
 Create a simple struct representing a geometric point in 2D space. Implement a method for the struct that calculates the distance between two points.
 
-> [!NOTE] Formula for computing distance between two points
+> [!NOTE]
 > `d=√((x2 – x1)² + (y2 – y1)²)`<br>
 > (Also, use floats like `f64`, as it will be simpler)
 
@@ -68,7 +68,7 @@ Write a function that takes a vector of integers and returns a new vector contai
 
 Implement a basic stack data structure. Create methods for pushing, popping, and checking if the stack is empty.
 
-> [!NOTE] Implementations already exist in Rust
+> [!NOTE]
 > `.push()`<br>
 > `.pop()` <br>
 > `.is_empty()`
@@ -92,7 +92,7 @@ Consider your entire calibration document. What is the sum of all of the calibra
 
 To begin, look at the `input.txt` file.
 
-> [!NOTE] Some tips
+> [!NOTE]
 > `.filter`<br>
 > `format!("{}{}", ...);` <br>
 > `.next()` <br>
