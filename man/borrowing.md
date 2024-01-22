@@ -1,6 +1,6 @@
 # Rust Ownership System
 
-This is REAL hard to understand at first and some problems you run into will be because of Rust's `Borrow Checker`.
+This is REALLY hard to understand at first and some problems you run into will be because of Rust's `Borrow Checker`.
 It exist because of safety reasons and you don't really need to understand exactly what it does.
 
 But at a higher level, understanding how Rust checks the ownership of your variables can be a real life saver.
