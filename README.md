@@ -12,14 +12,6 @@ Maybe you know about functional programming (like Haskell !)
 
 Rust is statically and strongly typed, thus meaning that the compiler MUST know the type of a variable at compilation time.<br>
 
-## Why Learn Rust?
-### Rust is safe, fast, productive. <br>
-The limitations of Rust allow it to be faster and safer
-
-In this workshop, we'll explore the key features of Rust. We'll delve into Rust's data types, borrow checker, functions, and more... By the end of this workshop, you'll be well on your way to adding Rust to your programming toolkit.
-
-Let's get started!
-
 ## Similarities with C
 
 - **Algorithms and Logic:** The fundamental programming concepts like loops, conditional statements, and functions are similar in both C and Rust. It's sometimes hard to understand Rust's syntax, but there's plenty of documentation online ! <br><a href="https://doc.rust-lang.org/stable/book/" target="_blank">The Rust Programming Language</a>
@@ -27,6 +19,16 @@ Let's get started!
 - **Variables and Data Types:** Rust shares many data types with C, such as integers, floats, and strings.
 
 - **Memory Management:** Rust doesn't have a Garbage collector, but you don't need to manage your own memory. Instead, use your knowledge of C to make faster and memory-efficient programs !
+
+## Why Learn Rust?
+### Rust is safe, fast, productive. <br>
+The limitations of Rust allow it to be faster and safer
+
+It can change the way you view coding, showing you new ways to solve problems in a simple way.
+
+In this workshop, we'll explore the key features of Rust. We'll delve into Rust's data types, borrow checker, functions, and more... By the end of this workshop, you'll be well on your way to adding Rust to your programming toolkit.
+
+Let's get started!
 
 ## Links
 
@@ -40,5 +42,5 @@ Let's get started!
     6. [Error management](man/error.md)
     7. [Borrowing](man/borrowing.md)
 
-- ### Exercices
+- ### Exercises
     [8 exercices, difficulty increasing](exercises/exercises.md)
