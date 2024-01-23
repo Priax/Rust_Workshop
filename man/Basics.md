@@ -16,8 +16,8 @@ As you can see, it's not much different from C.<br>
 fn means "func" (a function), main is main, print is print.
 <br> You shouldn't be too lost when typing in Rust.
 
-Don't worry if you don't understand everything at first, you can always come back here for more informations (be curious !)
+Don't worry if you don't understand everything in the workshop at first, you can always come back here for more informations (be curious !)
 
-You're encouraged to test any program your find in the courses.
+You're encouraged to test any program your find in the courses and to modify them.
 
 *I won't go over everything in Rust, but you're free to look at the documentation, there's a LOT to learn !*

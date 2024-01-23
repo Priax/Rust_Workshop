@@ -18,7 +18,7 @@ edition = "2021"
 [dependencies]
 ```
 
-You can add any **crate** to a cargo.toml file, when running `cargo run`, cargo will fetch the repositories containing your dependencies with the specified version and features (you can also just use `cargo add name_of_crate`) !<br><br>
+You can add any **crate** to a cargo.toml file, when running `cargo run`, cargo will fetch the repositories containing your dependencies with the specified version and features you specified (you can also just use `cargo add name_of_crate`) !<br><br>
 
 For example :
 

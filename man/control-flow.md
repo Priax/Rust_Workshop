@@ -31,12 +31,12 @@ fn main() {
 ```
 
 Ok... What's this ?
-mut ? 1..101 ??? FOLD ?????
+mut ? 1..101 ??? fold ????
 
 Calm down... Let's keep things simple.
 First, here is the result of this program :
 ```bash
-Priax@fedora-39:~/Projets_perso/RUST/test_projet/workshop$ ./workshop
+Priax@fedora-39:~/Projets_perso/RUST/workshop$ ./workshop
 5050
 5050
 ```
@@ -60,7 +60,7 @@ for i in l {
 ### Mutable, Immutable...
 
 Okay, now, what's a mutable variable ?
-> In Rust, a variable can be marked as mutable (using the mut keyword). This allows you to create mutable references to that variable. Mutable references allow you modify the value they are pointing to.
+> In Rust, a variable can be marked as mutable (using the mut keyword). This allows you to create mutable references to that variable. Mutable references allow you to modify the value they are pointing to.
 
 If you know C, this should be easy to understand, if you don't, just consider a mutable variable can be modified, while an immutable variable can't.
 
@@ -68,7 +68,7 @@ If you know C, this should be easy to understand, if you don't, just consider a 
 For those that know Haskell, fold is easy to understand, for others, it may not be that simple. <br>
 Rust is not a functional programming language per se, but it does have some functional elements (Immutability, data types using `struct` and `enum`, pattern matching using `match`, `impl` to implement your own traits...)
 
-I won't delve deeper into those, but there are REALLY useful and you should learn how to use them.
+I won't delve deeper into those, but they are REALLY useful and you should learn how to use them if you want to learn Rust.
 
 Fold is simple, it applies a function to each elements of an iteration, accumulating them into a new value.
 

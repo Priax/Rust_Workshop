@@ -6,7 +6,7 @@ I made the next exercises, they range from simple to very hard (for a beginner, 
 You won't be able to finish those exercises, but you can always come back here if you want a challenge.
 
 Also, those exercises are very easy to do with any AI assistant, I know that.
-That's not the goal of this workshop. You should always try alone to solve a problem, else you won't learn the basics that are really important.
+That's not the goal of this workshop. You should always try  to solve a problem yourself at first, else you won't learn the basics that are really important.
 
 ## Exercise 1 :
 
