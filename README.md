@@ -19,6 +19,7 @@ Rust is statically and strongly typed, thus meaning that the compiler MUST know 
 - **Variables and Data Types:** Rust shares many data types with C, such as integers, floats, and strings.
 
 - **Memory Management:** Rust doesn't have a Garbage collector, but you don't need to manage your own memory. Instead, use your knowledge of C to make faster and memory-efficient programs !
+That also means that Rust ***can't*** segfault !
 
 ## Why Learn Rust?
 ### Rust is safe, fast, productive. <br>
@@ -43,4 +44,4 @@ Let's get started!
     7. [Borrowing](man/borrowing.md)
 
 - ### Exercises
-    [8 exercices, difficulty increasing](exercises/exercises.md)
+    [8 exercises, difficulty increasing](exercises/exercises.md)
